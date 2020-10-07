@@ -38,3 +38,4 @@ C:\Users\Cliente\Documents\PUC-MINAS\Estudos .NET\GerenciamentoFincancas\app_asp
 C:\Users\Cliente\Documents\PUC-MINAS\Estudos .NET\GerenciamentoFincancas\app_aspnet_core\app_aspnet_core\obj\Debug\netcoreapp2.1\app_aspnet_core.pdb
 C:\Users\Cliente\Documents\PUC-MINAS\Estudos .NET\GerenciamentoFincancas\app_aspnet_core\app_aspnet_core\obj\Debug\netcoreapp2.1\app_aspnet_core.genruntimeconfig.cache
 C:\Users\Cliente\Documents\PUC-MINAS\Estudos .NET\GerenciamentoFincancas\app_aspnet_core\app_aspnet_core\obj\Debug\netcoreapp2.1\app_aspnet_core.csproj.CopyComplete
+C:\Users\Cliente\Documents\PUC-MINAS\Estudos .NET\GerenciamentoFincancas\app_aspnet_core\app_aspnet_core\obj\Debug\netcoreapp2.1\app_aspnet_core.csprojAssemblyReference.cache
