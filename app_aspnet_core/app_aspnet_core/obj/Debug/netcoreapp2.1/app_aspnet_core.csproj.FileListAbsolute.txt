@@ -37,8 +37,6 @@ C:\Users\Cliente\Documents\PUC-MINAS\Estudos .NET\GerenciamentoFincancas\app_asp
 C:\Users\Cliente\Documents\PUC-MINAS\Estudos .NET\GerenciamentoFincancas\app_aspnet_core\app_aspnet_core\obj\Debug\netcoreapp2.1\app_aspnet_core.genruntimeconfig.cache
 C:\Users\Cliente\Documents\PUC-MINAS\Estudos .NET\GerenciamentoFincancas\app_aspnet_core\app_aspnet_core\obj\Debug\netcoreapp2.1\app_aspnet_core.csproj.CopyComplete
 C:\Users\Cliente\Documents\PUC-MINAS\Estudos .NET\GerenciamentoFincancas\app_aspnet_core\app_aspnet_core\obj\Debug\netcoreapp2.1\app_aspnet_core.csprojAssemblyReference.cache
-C:\Users\Cliente\Documents\PUC-MINAS\Estudos .NET\GerenciamentoFincancas\app_aspnet_core\app_aspnet_core\obj\Debug\netcoreapp2.1\app_aspnet_core.csproj.CoreCompileInputs.cache
-C:\Users\Cliente\Documents\PUC-MINAS\Estudos .NET\GerenciamentoFincancas\app_aspnet_core\app_aspnet_core\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
 C:\Users\Cliente\Documents\PUC-MINAS\Estudos .NET\GerenciamentoFincancas\app_aspnet_core\app_aspnet_core\obj\Debug\netcoreapp2.1\Razor\Views\Categorias\Create.cshtml.g.cs
 C:\Users\Cliente\Documents\PUC-MINAS\Estudos .NET\GerenciamentoFincancas\app_aspnet_core\app_aspnet_core\obj\Debug\netcoreapp2.1\Razor\Views\Categorias\Delete.cshtml.g.cs
 C:\Users\Cliente\Documents\PUC-MINAS\Estudos .NET\GerenciamentoFincancas\app_aspnet_core\app_aspnet_core\obj\Debug\netcoreapp2.1\Razor\Views\Categorias\Details.cshtml.g.cs
@@ -49,3 +47,9 @@ C:\Users\Cliente\Documents\PUC-MINAS\Estudos .NET\GerenciamentoFincancas\app_asp
 C:\Users\Cliente\Documents\PUC-MINAS\Estudos .NET\GerenciamentoFincancas\app_aspnet_core\app_aspnet_core\obj\Debug\netcoreapp2.1\Razor\Views\Despesas\Details.cshtml.g.cs
 C:\Users\Cliente\Documents\PUC-MINAS\Estudos .NET\GerenciamentoFincancas\app_aspnet_core\app_aspnet_core\obj\Debug\netcoreapp2.1\Razor\Views\Despesas\Edit.cshtml.g.cs
 C:\Users\Cliente\Documents\PUC-MINAS\Estudos .NET\GerenciamentoFincancas\app_aspnet_core\app_aspnet_core\obj\Debug\netcoreapp2.1\Razor\Views\Despesas\Index.cshtml.g.cs
+C:\Users\Cliente\Documents\PUC-MINAS\Estudos .NET\GerenciamentoFincancas\app_aspnet_core\app_aspnet_core\obj\Debug\netcoreapp2.1\app_aspnet_core.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Documents\PUC-MINAS\Estudos .NET\GerenciamentoFincancas\app_aspnet_core\app_aspnet_core\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Cliente\Documents\PUC-MINAS\Estudos .NET\GerenciamentoFincancas\app_aspnet_core\app_aspnet_core\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\Cliente\Documents\PUC-MINAS\Estudos .NET\GerenciamentoFincancas\app_aspnet_core\app_aspnet_core\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\Cliente\Documents\PUC-MINAS\Estudos .NET\GerenciamentoFincancas\app_aspnet_core\app_aspnet_core\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Cliente\Documents\PUC-MINAS\Estudos .NET\GerenciamentoFincancas\app_aspnet_core\app_aspnet_core\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
